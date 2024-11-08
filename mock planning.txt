@@ -1,0 +1,10 @@
+Friday-4hrs
+Basic Programming-up to patterns
+Saturday
+Strings,Arrays,patterns
+Sunday
+Multithreading,Exception Handling
+Monday
+Collections,OOPS
+Tuesday
+Mock
